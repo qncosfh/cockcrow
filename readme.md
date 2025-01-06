@@ -1,6 +1,6 @@
 
 # 工具介绍：
-![Uploading 图片.png…]()
+![图片](https://github.com/user-attachments/assets/2f623cc6-6473-4e39-bfb7-004af3ff5115)
 
 > cockcrow为一款综合性测试工具，内置多个功能模块。包括端口扫描scan模块、域名枚举subdomain模块、目录扫描directory模块、资产测绘mapping模块、指纹识别finger模块、辅助测试auxillary模块(没想好写啥)、漏洞利用exploit模块、服务爆破explosion模块、孙子公司信息收集collect模块、全局代理proxy模块、批量发送钓鱼邮件fishing模块。
 
