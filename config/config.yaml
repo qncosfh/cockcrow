@@ -1,0 +1,9 @@
+config:
+  - key: "AiQiCha"
+    value: "填写你爱企查的cookie"
+  - key: "FoFa"
+    value: "填写你fofa的api"
+  - key: "Hunter"
+    value: "填写你hunter的api"
+  - key: "Quake"
+    value: "填写你quake的api"

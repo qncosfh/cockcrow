@@ -1,0 +1,7 @@
+EmailAccount:<填写邮箱地址>
+EmailPassword:<填写你邮箱密码或授权码>
+SMTPServer:<填写你SMTP发件服务器>
+SMTPPorts:<25/465/587>
+FromEmail:<选填>
+Subject:<这是测试>
+Body:<点击如下二维码 http://192.168.1.1>
